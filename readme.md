@@ -20,7 +20,9 @@ https://github.com/angular/angular-cli
 
 ## Node JS
 
+## MEAN
 
+docker-compose up --build
 
 
 
