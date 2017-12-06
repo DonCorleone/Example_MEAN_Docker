@@ -7,13 +7,14 @@ https://scotch.io/tutorials/create-a-mean-app-with-angular-2-and-docker-compose
 ## Angular
 
 ### Angular cli
+https://cli.angular.io/reference.pdf
 
 #### Origin
 https://cli.angular.io/  
 https://github.com/angular/angular-cli
 
 #### Init
-    ng new angular-client
+    ng new angular-client --skip-git
     cd angular-client
     ng serve
 
