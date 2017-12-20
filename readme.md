@@ -24,7 +24,6 @@ https://github.com/angular/angular-cli
 ## Node JS
 
 ## GoLive
-
 docker-compose up --build
 
 
